@@ -1,12 +1,21 @@
 <h3 align='center'>
 👋 Hi there, I’m <a href='https://www.arlo-filley.dev'> Arlo </a> 👋
 </h3>
-- 👀 I’m interested in everything computing. I try to learn as much as possible from fields as diverse as hardware building to web development.
-- 🌱 I’m currently learning front and back end javascript, as well as networking
-- 💞️ I’m not currently looking to collaborate, but we'll see what the future holds
+<ul>
+  <li> 👀 I’m interested in everything computing! I try to learn as much as possible from everything possible!
+  <li> 🌱 I’m currently learning Javascript, using Node.js and react to create web small applications
+  <li> 📚 I'm currently a student studying Computer Science (obviously), Maths and Economics in England
+</ul>
 
-[![Arlo's github stats](https://github-readme-stats.vercel.app/api?username=arlofilley)](https://github.com/yushi1007)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arlofilley&layout=compact)](https://github.com/yushi1007)
+<h4 align='center'>
+  Current projects
+</h4>
+<ul>
+  <li> My very own discord bot using discord.js
+  <li> A typing website that I'm designing as my computer science coursework
+
+[![Arlo's github stats](https://github-readme-stats.vercel.app/api?username=arlofilley)](https://github.com/ArloFilley)<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arlofilley&layout=compact)](https://github.com/ArloFilley)
 <!---
 ArloFilley/ArloFilley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
