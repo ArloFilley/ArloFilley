@@ -1,4 +1,4 @@
-<img width="1000" height="100" align="center" src="https://user-images.githubusercontent.com/104267514/165076399-1d347132-e735-4237-acce-00ee8fc3e35e.png" alt="my Banner">
+<img width="3000" height="300" align="center" src="https://user-images.githubusercontent.com/104267514/165076399-1d347132-e735-4237-acce-00ee8fc3e35e.png" alt="my Banner">
 # - 👋 Hi, I’m @ArloFilley
 - 👀 I’m interested in everything computing. I try to learn as much as possible from fields as diverse as hardware building to web development.
 - 🌱 I’m currently learning front and back end javascript, as well as networking
