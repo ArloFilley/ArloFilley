@@ -16,8 +16,8 @@
   <li> My very own discord bot using discord.js
   <li> A typing website that I'm designing as my computer science coursework
 
-[![Arlo's github stats](https://github-readme-stats.vercel.app/api?username=arlofilley)](https://github.com/ArloFilley)<br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arlofilley&layout=compact)](https://github.com/ArloFilley)<br>
+[![Arlo's github stats](https://github-readme-stats.vercel.app/api?username=ArloFilley)](https://github.com/ArloFilley)<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArloFilley&layout=compact)](https://github.com/ArloFilley)<br>
 <!---
 ArloFilley/ArloFilley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
