@@ -22,8 +22,6 @@ I'm a 17 year old gamer, student, and programmer currently residing in the UK
 - An easily customisable multiple choice game creator
 - My own website
 
-# Contact
-
 ## A bit about my github
 [![Arlo's github stats](https://github-readme-stats.vercel.app/api?username=ArloFilley)](https://github.com/ArloFilley)<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArloFilley&layout=compact)](https://github.com/ArloFilley)<br>
