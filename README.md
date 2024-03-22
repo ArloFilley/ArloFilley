@@ -1,8 +1,8 @@
-# 👋 Hi there, I’m <a href='https://www.arlofilley.com'> Arlo </a> 👋
+# 👋 Hi there, I’m [Arlo](https://www.arlofilley.com) 👋
 ## About me
-I'm a 18 year old gamer, student, and programmer currently residing in the UK
+I'm a 19 year old gamer, student, and programmer currently residing in the UK
 <!-- In Future put a link to the website here -->
-- 📚 I'm currently a student studying Computer Science (obviously), Maths and Economics in England
+- 📚 I'm currently a student studying Computer Science, Maths and Economics in the UK
 
 ## 📫 Contact
 - Discord noodlinear#7621
