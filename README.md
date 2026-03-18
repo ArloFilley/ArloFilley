@@ -18,7 +18,7 @@ That's ok. They work and I love them for it!<br>
 <br>
 ↕️💾 [Rusty Torrent](https://github.com/ArloFilley/rusty_torrent) - semi-finished BitTorrent v1 library and client<br>
 🎓🗂️ [A-Level Coursework](https://github.com/ArloFilley/cs_coursework) - Touch typing website taking heavy inspiration from [MonkeyType](https://monkeytype.com)<br>
-📊👀 [crispy-broccoli](https://github.com/ArloFilley/crispy-broccoli) - Simple system monitor with webserver support<br>
+🤖🏃 [LMC Simulator](https://github.com/ArloFilley/lmc-simulator) - A fast and effective interpreter and simulator for Little Man Computer (LMC) assembly language<br>
 <img src="Assets/Discord-Symbol-Blurple.png" alt="Alt text" width="15" height="12">🤖 [Noodl Discord Bot](https://github.com/ArloFilley/NoodlBot) - Personal use discord bot with some remote PC management capabilities<br>
 🏃💾 [Run Length Encoder](https://github.com/ArloFilley/RLE) - Rust based run length encoder and decoder. With an example binary black and white image.<br>
 ↔️📝 [Multiple Choice Creator](https://github.com/ArloFilley/multiple_choice_game) - One of my first "big" projects, a hashmap based multiple choice creator, created from files with custom instructions such as GOTO and CHOICES
