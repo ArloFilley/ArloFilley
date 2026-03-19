@@ -16,7 +16,7 @@ I'm always working on something and right now that something is:<br>
 These are the projects I'm proud of. I know for a fact that the code is far worse than what I can write now.<br>
 That's ok. They work and I love them for it!<br>
 <br>
-↕️💾 [Rusty Torrent](https://github.com/ArloFilley/rusty_torrent) - semi-finished BitTorrent v1 library and client<br>
+↕️💾 [Rusty Torrent](https://github.com/ArloFilley/rusty_torrent) - Bittorrent V1 Library and Client Written in Rust<br>
 🎓🗂️ [A-Level Coursework](https://github.com/ArloFilley/cs_coursework) - Touch typing website taking heavy inspiration from [MonkeyType](https://monkeytype.com)<br>
 🤖🏃 [LMC Simulator](https://github.com/ArloFilley/lmc-simulator) - A fast and effective interpreter and simulator for Little Man Computer (LMC) assembly language<br>
 <img src="Assets/Discord-Symbol-Blurple.png" alt="Alt text" width="15" height="12">🤖 [Noodl Discord Bot](https://github.com/ArloFilley/NoodlBot) - Personal use discord bot with some remote PC management capabilities<br>
